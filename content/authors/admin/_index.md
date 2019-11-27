@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xiao Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of North Carolina at Chapel Hill
+  url: "https://www.unc.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Xiao uses remote sensing to study large scale surface water systems and their response to climate change.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Rivers and lakes 
+- Remote sensing
+- Google Earth Engine
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Geological Sciences
+    institution: University of North Carolina at Chapel Hill
+    year: 2016
+  - course: MPhil in Geophysics
+    institution: the University of Hong Kong
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Geophysics
+    institution: University of Science and Technology of China
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yangxiao@live.unc.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/XiaoYan20198978
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Ya5nGLoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/seanyx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiao graduated from University of Science and Technology of China in 2009 majoring Geophysics. After finishing his Master degree in geophysics from The University of Hong Kong, he came to the University of North Carolina at Chapel Hill to study under the late Dr. Jose Rial in the Department of Geological Sciences, investigating teleconnections in abrupt climate changes occurred during the most recent ice age. After successfully defending his PhD in December 2016, he joined Dr. Tamlin Pavelsky’s Global Hydrology Lab at UNC working as a Postdoc Research Associate. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Xiao’s current research focuses on quantifying the status of and the change occurring to rivers and lakes around the world, projecting the changes into the future, and assessing the ecological, hydrological, and biogeochemical responses to the changes. The outcome of his research extends our understanding of the critical and valuable freshwater systems worldwide, at the same time supports NASA's upcoming Surface Water and Ocean Topography satellite mission, under which most of Dr. Yang’s current work has been funded.
