@@ -18,7 +18,7 @@ organizations:
   url: "https://www.unc.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xiao uses remote sensing to study large scale surface water systems and their response to climate change.
+bio: I use remote sensing to study large scale surface water systems and their response to climate change.
 
 interests:
 - Rivers and lakes 
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Xiao graduated from University of Science and Technology of China in 2009 majoring Geophysics. After finishing his Master degree in geophysics from The University of Hong Kong, he came to the University of North Carolina at Chapel Hill to study under the late Dr. Jose Rial in the Department of Geological Sciences, investigating teleconnections in abrupt climate changes occurred during the most recent ice age. After successfully defending his PhD in December 2016, he joined Dr. Tamlin Pavelsky’s Global Hydrology Lab at UNC working as a Postdoc Research Associate. 
+I graduated from University of Science and Technology of China in 2009 majoring Geophysics. After finishing his Master degree in geophysics from The University of Hong Kong, I came to the University of North Carolina at Chapel Hill to study under the late Dr. Jose Rial in the Department of Geological Sciences, investigating teleconnections in abrupt climate changes occurred during the most recent ice age. After defending my PhD in December 2016, I joined Dr. Tamlin Pavelsky’s Global Hydrology Lab at UNC working as a Postdoc Research Associate. 
 
-Xiao’s current research focuses on quantifying the status of and the change occurring to rivers and lakes around the world, projecting the changes into the future, and assessing the ecological, hydrological, and biogeochemical responses to the changes. The outcome of his research extends our understanding of the critical and valuable freshwater systems worldwide, at the same time supports NASA's upcoming Surface Water and Ocean Topography satellite mission, under which most of Dr. Yang’s current work has been funded.
+My current research focuses on quantifying the status of and the change occurring to rivers and lakes around the world, projecting their future changes, and assessing the ecological, hydrological, and biogeochemical responses to the changes. The outcome of my research extends our understanding of the critical and valuable freshwater systems worldwide, at the same time supports NASA's upcoming Surface Water and Ocean Topography satellite mission, under which most of my current work has been funded.
